@@ -1,0 +1,16 @@
+*********Objective of the game******
+
+Collect all the coins in the game world and move to the next level
+by moving to the safe space which is the green area.
+
+The enemies are disguised as coins therefore if you come in contact 
+with an enemy, you will lose a life.
+
+*********Movement*********
+
+To move UP use w
+To move DOWN use s
+To move to the RIGHT use d
+To move to the LEFT use a
+
+To collect a coin, move to it
